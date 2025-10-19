@@ -12,10 +12,10 @@ The project helps users book cruises online, view available packages, and manage
 
 <img width="1907" height="824" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/be77bc7c-db9e-47f3-8bd3-4d8a3c18b3a5" />
 
-<img width="655" height="791" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/3fce0fa1-72e1-4caa-8624-8b52
+<img width="655" height="791" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/3fce0fa1-72e1-4caa-8624-8b52f6168b50" />
 
 <img width="1461" height="654" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/55b114a0-e2ae-4465-9b06-e758b9f476c8" />
-f6168b50" />
+
 
 # Features
 Passenger registration and cruise booking
